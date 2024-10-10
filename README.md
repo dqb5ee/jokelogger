@@ -1,2 +1,2 @@
 # jokelogger
-Funny haha.
+This is a program to tell a joke.
